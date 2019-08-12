@@ -1,2 +1,0 @@
-# EasySchools
-Schools Project
